@@ -17,4 +17,6 @@ to activate the system -
 - uvicorn alert_system.app:app --reload  --port 5000 #activate the alert system on local host
 - actiave main_service.py
 
+link to video with slack -> https://drive.google.com/file/d/1w9sCAD0qqsgXIW3g5DA56Xhf9Ze9_3UF/view?usp=sharing
+link to video with email -> https://drive.google.com/file/d/1ynR3GOGJyHPDNy0btS3YI6tjfQ_lTuFx/view?usp=sharing
 
